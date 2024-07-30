@@ -1,13 +1,13 @@
 {
 	"name": "oceancodex/wpsp-finder",
-	"version": "8.0.0",
+	"version": "7.4.0",
 	"description": "WordPress Starter Plugin - Finder",
 	"keywords": [
 	],
 	"license": "MIT",
 	"require": {
-		"php": "^8.0",
-		"symfony/finder": "^v6.0.19"
+		"php": "^7.4",
+		"symfony/finder": "^v5.4.42"
 	},
 	"config": {
 		"sort-packages": true
